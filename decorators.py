@@ -1,4 +1,4 @@
-#django-utils/decorators.py
+#django_utils/decorators.py
 
 try:
     import json

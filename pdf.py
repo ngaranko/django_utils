@@ -1,4 +1,4 @@
-#django-utils/pdf.py
+#django_utils/pdf.py
 
 from django.http import HttpResponse
 from django.template.loader import get_template
